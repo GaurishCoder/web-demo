@@ -1,3 +1,14 @@
 h1{
     color:red;
 }
+
+div{
+    height: 100px;
+    width: 150px;
+    border: 2px solid black;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: capitalize;
+    font-weight: bold;
+}
